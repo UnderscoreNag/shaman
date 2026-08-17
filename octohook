@@ -3534,4 +3534,3 @@ end
 
 library.has_init = true
 getgenv().library = library
-return library
